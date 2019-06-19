@@ -33,7 +33,7 @@ modules
 
 * **Technology** : Bootstrap, Java, Spring MVC, Hibernate, JSP, Maven.
 * **Application Servicer**: Apache Tomcat Server
-* **Database** : Oracle 12g Database.
+* **Database** : Oracle 12c Database.
 
 ### Installation:
 
@@ -48,9 +48,9 @@ modules
 
    * [Download Maven](https://maven.apache.org/download.cgi)
 
-4. Database - Oracle 12g Database
+4. Database - Oracle 12c Database
 
-   * [Download Oracle 12g Database](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/database12c-win64-download-2297732.html)
+   * [Download Oracle 12c Database](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/database12c-win64-download-2297732.html)
 
 5. Configuring tomcat with Eclipse (windows) - [Click Here](https://javatutorial.net/run-tomcat-from-eclipse)
 
@@ -58,7 +58,7 @@ modules
 
 7. Clone the repository and import it to eclipse
 
-8. Run your Oracle Database.
+8. Run your Oracle Database 12c.
 
 9. Configure your databse configuration in **application-context.xml**
 
@@ -95,6 +95,6 @@ modules
 
 If you find that something's wrong with this package, you can let me know by raising an issue on the GitHub issue tracker
 
-#### Contribution
+#### Contribution by RAVITEZA OMMI
 
 Contributors are most welcome.
