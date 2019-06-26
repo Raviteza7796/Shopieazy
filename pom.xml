@@ -53,7 +53,7 @@
     		<artifactId>ojdbc8</artifactId>
    			<version>12.2.0.1</version>
     		<scope>system</scope>
-    		<systemPath>https://github.com/Raviteza7796/Shopieazy/blob/master/src/main/webapp/WEB-INF/lib/ojdbc8.jar</systemPath>
+    		<systemPath>C:\Users\ravommi\Documents\Use-CasesDocs\Shopieasy\src\main\webapp\WEB-INF\lib\ojdbc8.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>javax.servlet</groupId>
