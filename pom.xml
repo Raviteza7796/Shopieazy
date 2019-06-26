@@ -53,7 +53,7 @@
     		<artifactId>ojdbc8</artifactId>
    			<version>12.2.0.1</version>
     		<scope>system</scope>
-    		<systemPath>src/main/webapp/WEB-INF/lib/ojdbc8.jar</systemPath>
+    		<systemPath>/src/main/webapp/WEB-INF/lib/ojdbc8.jar</systemPath>
 		</dependency>
 		<dependency>
 			<groupId>javax.servlet</groupId>
